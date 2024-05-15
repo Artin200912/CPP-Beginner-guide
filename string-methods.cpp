@@ -18,6 +18,9 @@ int main()
     name = name.append("@gmail.com"); // adding a string to that certain string
     // name.at(1) you can access the indices of a str
     // name.insert(1, '@') you can change the value of that certain index
+    // name.find('the char you want to find in the str')
+    // name.erase(0, 3) deletes the first 3 index
+
 
 
 }
