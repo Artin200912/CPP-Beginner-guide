@@ -4,7 +4,8 @@ using std::cin;
 using std::string;
 using std::getline;
 
-
+using nm = int;
+using db = double;
 using str = string;
 int main()
 {
