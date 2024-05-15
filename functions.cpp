@@ -3,6 +3,7 @@
 // function = a block of reusable code
 #include <iostream>
 using namespace std;
+using namespace std;
 
 
 void HappyBirthday(string name, int age){
