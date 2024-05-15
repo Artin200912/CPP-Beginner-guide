@@ -20,7 +20,7 @@ int main()
     // name.insert(1, '@') you can change the value of that certain index
     // name.find('the char you want to find in the str')
     // name.erase(0, 3) deletes the first 3 index
-
+    // you can find a lot more useful string methods in CPP docs.
 
 
 }
