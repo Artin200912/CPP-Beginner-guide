@@ -2,16 +2,16 @@
 using namespace std;
 
 
-void BakePizza();
+string BakePizza(string::topping1){
+    cout << "Here is your pizza\n" << "with extra topping " << topping1;
+}
 
 int main(){
 
-    BakePizza();
+    string topping1 = "Pepperoni";
+    BakePizza(topping1);
 
     return 0;
 }
 
 
-void BakePizza(){
-    cout << "Here is your pizza\n";
-}
